@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425802250995",
+    "project_id": "carpal-ad88f",
+    "storage_bucket": "carpal-ad88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425802250995:android:0114588f7faaa876cd9586",
+        "android_client_info": {
+          "package_name": "com.studio.carpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexRAHwCIJz-3JX6cEUSGc98SX65nsygM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
